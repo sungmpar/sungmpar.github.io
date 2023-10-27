@@ -71,7 +71,7 @@ theme_mode: # [light|dark]
 #
 # e.g. 'https://cdn.com'
 # img_cdn: "https://chirpy-img.netlify.app"
-img_cdn: ""
+
 
 # the avatar on sidebar, support local or CORS resources
 # avatar: "/commons/avatar.jpg"
