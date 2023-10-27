@@ -8,5 +8,5 @@ pin: true
 render_with_liquid: false
 ---
 
-<iframe src="https://sungmpar.github.io/weather/" title="weather_app" width=400 height=800></iframe>
+<iframe src="https://sungmpar.github.io/weather/" title="weather_app" width=400 height=900></iframe>
 
